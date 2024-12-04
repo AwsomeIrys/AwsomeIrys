@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Working On: TuxByte (Discord Bot) In Python<br>I'm Looking To Collaborate On Programming<br>I'm Looking For Help With: Learn How To Use Ruby<br>I'm Currently Learning: Docker & Ruby & Javascript<br>Ask Me About: What Linux Distro I Use<br>Fun Facts: I Love Anime and Pokemon and Drawing
+I'm Currently Working On: Learning Javascript<br>I'm Looking To Collaborate On Programming<br>I'm Looking For Help With: Learn How To Use Ruby<br>I'm Currently Learning: Docker & Ruby & Javascript<br>Ask Me About: What Linux Distro I Use<br>Fun Facts: I Love Anime and Pokemon and Drawing
 
 
 ## 🌐 Socials:
